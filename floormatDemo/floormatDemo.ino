@@ -6,8 +6,8 @@
  Digital Pin 4 HIGH when pin 2 goes LOW.
  
  The circuit: 
- Digital pin 2 -  Floomat switch
- Digital pin 4 - LED / Buzzer / Relay / Powertail Switch
+ Digital pin 2 -  Floor Mat Switch
+ Digital pin 4 - LED / Buzzer / Relay / PowerSwitch Tail
  
  Since a raw switch like a floormat leaves the digital pin open we need to make
  use of an internal 20K-ohm resistor to pull up to 5V. This configuration causes
